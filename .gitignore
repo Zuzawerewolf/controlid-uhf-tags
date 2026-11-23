@@ -1,0 +1,7 @@
+# nunca versionar: exports do equipamento (trazem hash/salt de senhas e nomes) e dados reais
+*.zip
+users.csv
+existentes.csv
+conferencia.csv
+tags.csv.local
+__pycache__/
